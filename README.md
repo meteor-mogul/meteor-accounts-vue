@@ -1,4 +1,6 @@
-# meteor-accounts-vue
+# [WIP} meteor-accounts-vue
+
+[NOTE: This is a work in progress.]
 
 A re-write of the Meteor accounts system in Vue.
 
